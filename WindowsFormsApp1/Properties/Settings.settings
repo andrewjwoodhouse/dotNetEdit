@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="dotNetEdit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 12pt</Value>
+    </Setting>
+    <Setting Name="UserBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="UserForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Silver</Value>
+    </Setting>
+    <Setting Name="UserRecentFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
